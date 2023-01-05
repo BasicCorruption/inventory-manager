@@ -1,0 +1,4 @@
+--class-path src
+--dce full
+--java bin/App.jar
+--main Main
